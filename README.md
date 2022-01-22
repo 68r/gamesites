@@ -1,5 +1,1 @@
-# Welcome to my unblocked games archive!
-
-list: a list of unblocked game sites available since dec 7, 2021 (major wip)
-
-lostcgsites: every known disabled or deleted classic google sites unblocked games site that could not be properly archived.
+https://github.com/mg66db/mg66db.github.io/tree/main/unblockedgamesarchive
